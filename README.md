@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:F7DF1E&height=150&section=header&text=Lobão%20Silva&fontColor=fff&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:F7DF1E&height=150&section=header&text=Evandeilson%20'Lobão'%20Silva&fontColor=fff&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
 <p align="center">

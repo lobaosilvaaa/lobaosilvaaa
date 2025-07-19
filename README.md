@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lobaosilvaaa&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobaosilvaaa&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobaosilvaaa&layout=compact&theme=react&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
